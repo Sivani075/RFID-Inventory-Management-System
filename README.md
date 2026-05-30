@@ -30,3 +30,5 @@ The system scans RFID tags, identifies inventory items, updates stock informatio
 - Updates stock count
 - Displays item information on OLED
 - Generates alert for unknown tags
+
+INTERN ID: CITS1984
